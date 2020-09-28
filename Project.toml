@@ -1,0 +1,10 @@
+name = "UtilityBelt"
+uuid = "6e4fd739-e96b-437a-afc1-a6ef2be13890"
+authors = ["Charles Kawczynski <kawczynski.charles@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+OrderedCollections = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
+REPL = "3fa0cd96-eef1-5676-8a61-b3b8758bbffb"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
